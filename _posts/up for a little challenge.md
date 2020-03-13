@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Supun Kavinda
+author: Sayak
 title: up for a little challenge
 ---
 
