@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 author: Sayak
 Title: up for a little challenge
 
