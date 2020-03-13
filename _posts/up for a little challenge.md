@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Sayak
-title: up for a little challenge
+Title: up for a little challenge
 
 ![800x600](https://i.picsum.photos/id/688/800/600.jpg)
 
