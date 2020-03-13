@@ -3,7 +3,7 @@ layout: post
 author: Sayak
 Title: up for a little challenge
 
-![800x600]()
+![320*448](https://raw.githubusercontent.com/Reverse25/rev_blog/master/up_for_a_little_challenge/Begin%20Hack.jpg)
 
 ## solutions(h3)
 
